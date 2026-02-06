@@ -1,0 +1,7 @@
+{
+  "name": "ArtSync Swipe Gallery",
+  "description": "A high-performance, mobile-optimized 2x2 art gallery featuring image and video sets with smooth swipe gestures and rotation effects.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
